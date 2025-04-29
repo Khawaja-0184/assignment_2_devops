@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Phones Store - Home</title>
+    <link rel="stylesheet" href="path_to_css_file.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Mobile Phones Store</h1>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="promotions.html">Promotions</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="intro">
+        <h2>Featured Phones</h2>
+        <p>Explore the latest smartphones available at our store.</p>
+        <!-- You can add images, buttons, etc. for product showcases -->
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Mobile Phones Store</p>
+    </footer>
+</body>
+</html>
